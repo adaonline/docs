@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /hero.png
-actionText: vuepress →
+actionText: v顶顶顶顶 →
 actionLink: /zh/guide/
 features:
 - title: 简洁至上
