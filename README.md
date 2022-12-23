@@ -1,2 +1,1 @@
-# docs
-vuepress start
+# Hello VuePress
